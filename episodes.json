@@ -1,0 +1,41 @@
+[
+    {
+        "Title": "Line Friends are Forever",
+        "EpisodeNumber": 1,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2020-10-27",
+        "RunTime(min)": 90,
+        "MiddleSegment": "Now that's what I call nostalgia, Vol. 1",
+        "OneMoreThing": "Crab isn't worth it"
+    },
+    {
+        "Title": "This is podracing!",
+        "EpisodeNumber": 2,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2020-11-11",
+        "RunTime(min)": 107,
+        "MiddleSegment": "Console Wars: PS2 vs Gamecube",
+        "OneMoreThing": "Tapatio is a better hot sauce than Tabasco"
+    },
+    {
+        "Title": "Barrens Chat",
+        "EpisodeNumber": 3,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2020-11-25",
+        "RunTime(min)": 100,
+        "MiddleSegment": "Spicy Delights: Early Access",
+        "OneMoreThing": "Keyboard and mouse is superior to controller"
+    }
+]
