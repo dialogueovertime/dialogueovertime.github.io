@@ -37,5 +37,31 @@
         "RunTime(min)": 100,
         "MiddleSegment": "Spicy Delights: Early Access",
         "OneMoreThing": "Keyboard and mouse is superior to controller"
+    },
+    {
+        "Title": "Drink the Crumbs",
+        "EpisodeNumber": 4,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2020-12-08",
+        "RunTime(min)": 108,
+        "MiddleSegment": "Make Your Case: Only one feature",
+        "OneMoreThing": "Grapefruit juice is the best juice"
+    },
+    {
+        "Title": "I Maintain a Trello Board",
+        "EpisodeNumber": 5,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2020-12-22",
+        "RunTime(min)": 102,
+        "MiddleSegment": "Our 2020 in Video Games",
+        "OneMoreThing": "eInk style eBooks are superior to paper books"
     }
 ]
