@@ -63,5 +63,125 @@
         "RunTime(min)": 102,
         "MiddleSegment": "Our 2020 in Video Games",
         "OneMoreThing": "eInk style eBooks are superior to paper books"
-    }
+    },
+    {
+        "Title": "A Man Can Dream",
+        "EpisodeNumber": 6,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-01-13",
+        "RunTime(min)": 102,
+        "MiddleSegment": "Console Wars PS3 vs Wii vs XBox 360",
+        "OneMoreThing": "Brinner is an abomination"
+    },
+    {
+        "Title": "Transitions Are Fire",
+        "EpisodeNumber": 7,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-01-26",
+        "RunTime(min)": 105,
+        "MiddleSegment": "Underrated Gems",
+        "OneMoreThing": "Showers a supposed to be in the morning"
+    },
+    {
+        "Title": "Elder Millennials",
+        "EpisodeNumber": 8,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-02-10",
+        "RunTime(min)": 107,
+        "MiddleSegment": "Side quests",
+        "OneMoreThing": "Plain walls are better"
+    },
+    {
+        "Title": "What else do you have to do?",
+        "EpisodeNumber": 9,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-02-24",
+        "RunTime(min)": 109,
+        "MiddleSegment": "Arcades!",
+        "OneMoreThing": "Cereal is not soup"
+    },
+    {
+        "Title": "Strategy is not a pigeon",
+        "EpisodeNumber": 10,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-03-10",
+        "RunTime(min)": 118,
+        "MiddleSegment": "Tournament Arc: Video Game Genres",
+        "OneMoreThing": "Dogs are better than cats"
+    },
+    {
+        "Title": "Sometimes I sell dreams",
+        "EpisodeNumber": 11,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-03-24",
+        "RunTime(min)": 113,
+        "MiddleSegment": "Tournament arc: Classes",
+        "OneMoreThing": "Sitting in the shade is better than putting on sunscreen"
+    },
+    {
+        "Title": "Transition Me",
+        "EpisodeNumber": 12,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "Guests": [
+            "Eliza"
+        ],
+        "ReleaseDate": "2021-04-08",
+        "RunTime(min)": 95,
+        "MiddleSegment": "Video game preservation",
+        "OneMoreThing": "Star Trek is better than Star Wars"
+    },
+    {
+        "Title": "I prefer the term inexpensive",
+        "EpisodeNumber": 13,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-04-21",
+        "RunTime(min)": 114,
+        "MiddleSegment": "Choose your starter",
+        "OneMoreThing": "Mechanical keyboards are overrated"
+    },
+    {
+        "Title": "Loosey Goosey",
+        "EpisodeNumber": 14,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-05-05",
+        "RunTime(min)": 107,
+        "MiddleSegment": "Mini-games",
+        "OneMoreThing": "Sleeping on your back is the best way to sleep"
+    },
 ]
