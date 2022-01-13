@@ -10,7 +10,7 @@
         "ReleaseDate": "2020-10-27",
         "RunTime(min)": 90,
         "MiddleSegment": "Now that's what I call nostalgia, Vol. 1",
-        "OneMoreThing": "Crab isn't worth it"
+        "OneLastThing": "Crab isn't worth it"
     },
     {
         "Title": "This is podracing!",
@@ -23,7 +23,7 @@
         "ReleaseDate": "2020-11-11",
         "RunTime(min)": 107,
         "MiddleSegment": "Console Wars: PS2 vs Gamecube",
-        "OneMoreThing": "Tapatio is a better hot sauce than Tabasco"
+        "OneLastThing": "Tapatio is a better hot sauce than Tabasco"
     },
     {
         "Title": "Barrens Chat",
@@ -36,7 +36,7 @@
         "ReleaseDate": "2020-11-25",
         "RunTime(min)": 100,
         "MiddleSegment": "Spicy Delights: Early Access",
-        "OneMoreThing": "Keyboard and mouse is superior to controller"
+        "OneLastThing": "Keyboard and mouse is superior to controller"
     },
     {
         "Title": "Drink the Crumbs",
@@ -49,7 +49,7 @@
         "ReleaseDate": "2020-12-08",
         "RunTime(min)": 108,
         "MiddleSegment": "Make Your Case: Only one feature",
-        "OneMoreThing": "Grapefruit juice is the best juice"
+        "OneLastThing": "Grapefruit juice is the best juice"
     },
     {
         "Title": "I Maintain a Trello Board",
@@ -62,7 +62,7 @@
         "ReleaseDate": "2020-12-22",
         "RunTime(min)": 102,
         "MiddleSegment": "Our 2020 in Video Games",
-        "OneMoreThing": "eInk style eBooks are superior to paper books"
+        "OneLastThing": "eInk style eBooks are superior to paper books"
     },
     {
         "Title": "A Man Can Dream",
@@ -75,7 +75,7 @@
         "ReleaseDate": "2021-01-13",
         "RunTime(min)": 102,
         "MiddleSegment": "Console Wars PS3 vs Wii vs XBox 360",
-        "OneMoreThing": "Brinner is an abomination"
+        "OneLastThing": "Brinner is an abomination"
     },
     {
         "Title": "Transitions Are Fire",
@@ -88,7 +88,7 @@
         "ReleaseDate": "2021-01-26",
         "RunTime(min)": 105,
         "MiddleSegment": "Underrated Gems",
-        "OneMoreThing": "Showers a supposed to be in the morning"
+        "OneLastThing": "Showers a supposed to be in the morning"
     },
     {
         "Title": "Elder Millennials",
@@ -101,7 +101,7 @@
         "ReleaseDate": "2021-02-10",
         "RunTime(min)": 107,
         "MiddleSegment": "Side quests",
-        "OneMoreThing": "Plain walls are better"
+        "OneLastThing": "Plain walls are better"
     },
     {
         "Title": "What else do you have to do?",
@@ -114,7 +114,7 @@
         "ReleaseDate": "2021-02-24",
         "RunTime(min)": 109,
         "MiddleSegment": "Arcades!",
-        "OneMoreThing": "Cereal is not soup"
+        "OneLastThing": "Cereal is not soup"
     },
     {
         "Title": "Strategy is not a pigeon",
@@ -127,7 +127,7 @@
         "ReleaseDate": "2021-03-10",
         "RunTime(min)": 118,
         "MiddleSegment": "Tournament Arc: Video Game Genres",
-        "OneMoreThing": "Dogs are better than cats"
+        "OneLastThing": "Dogs are better than cats"
     },
     {
         "Title": "Sometimes I sell dreams",
@@ -140,7 +140,7 @@
         "ReleaseDate": "2021-03-24",
         "RunTime(min)": 113,
         "MiddleSegment": "Tournament arc: Classes",
-        "OneMoreThing": "Sitting in the shade is better than putting on sunscreen"
+        "OneLastThing": "Sitting in the shade is better than putting on sunscreen"
     },
     {
         "Title": "Transition Me",
@@ -148,15 +148,13 @@
         "Hosts": [
             "Paul",
             "Cody",
-            "Chris"
-        ],
-        "Guests": [
-            "Eliza"
+            "Chris",
+            "Eliza (guest)"
         ],
         "ReleaseDate": "2021-04-08",
         "RunTime(min)": 95,
         "MiddleSegment": "Video game preservation",
-        "OneMoreThing": "Star Trek is better than Star Wars"
+        "OneLastThing": "Star Trek is better than Star Wars"
     },
     {
         "Title": "I prefer the term inexpensive",
@@ -169,7 +167,7 @@
         "ReleaseDate": "2021-04-21",
         "RunTime(min)": 114,
         "MiddleSegment": "Choose your starter",
-        "OneMoreThing": "Mechanical keyboards are overrated"
+        "OneLastThing": "Mechanical keyboards are overrated"
     },
     {
         "Title": "Loosey Goosey",
@@ -182,6 +180,227 @@
         "ReleaseDate": "2021-05-05",
         "RunTime(min)": 107,
         "MiddleSegment": "Mini-games",
-        "OneMoreThing": "Sleeping on your back is the best way to sleep"
+        "OneLastThing": "Sleeping on your back is the best way to sleep"
+    },
+    {
+        "Title": "Three Pronged Ripple Attack",
+        "EpisodeNumber": 15,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-05-19",
+        "RunTime(min)": 111,
+        "MiddleSegment": "Kill your babies",
+        "OneLastThing": "In-N-Out is a California treasure"
+    },
+    {
+        "Title": "Skullfang’s Fang of Sundering Fangs",
+        "EpisodeNumber": 16,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-06-03",
+        "RunTime(min)": 116,
+        "MiddleSegment": "Reply, Ignore, Unsubscribe",
+        "OneLastThing": "Don't buy a fancy car"
+    },
+    {
+        "Title": "I'm Gonna Make This Easy For You",
+        "EpisodeNumber": 17,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-06-13",
+        "RunTime(min)": 107,
+        "MiddleSegment": "Best controller tournament",
+        "OneLastThing": "Get rid of the penny and nickel"
+    },
+    {
+        "Title": "Please Be Good - an E3 Special",
+        "EpisodeNumber": 18,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-07-01",
+        "RunTime(min)": 151,
+        "MiddleSegment": "E3 all the way down",
+        "OneLastThing": "FFXVI will release on Dec 23, 2021"
+    },
+    {
+        "Title": "Did We Lose The Judge?",
+        "EpisodeNumber": 19,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-07-15",
+        "RunTime(min)": 111,
+        "MiddleSegment": "Make your case: Switch bet",
+        "OneLastThing": "Watermelon is always disappointing"
+    },
+    {
+        "Title": "We Are A Zero Indexing Podcast",
+        "EpisodeNumber": 20,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-07-28",
+        "RunTime(min)": 118,
+        "MiddleSegment": "PC vs Console gaming",
+        "OneLastThing": "Summer breaks need to go away"
+    },
+    {
+        "Title": "Is Game Good?",
+        "EpisodeNumber": 21,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-08-11",
+        "RunTime(min)": 137,
+        "MiddleSegment": "Real Talk: Should We Boycott Game Studios?",
+        "OneLastThing": "Anime should be viewed with subs"
+    },
+    {
+        "Title": "I'm Not Good at Gitting Gud",
+        "EpisodeNumber": 22,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-08-25",
+        "RunTime(min)": 119,
+        "MiddleSegment": "In Memorandum",
+        "OneLastThing": "Road trips are better and more fun than plane rides"
+    },
+    {
+        "Title": "The One That Most People Shame Me For",
+        "EpisodeNumber": 23,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-09-10",
+        "RunTime(min)": 129,
+        "MiddleSegment": "Game Subscriptions",
+        "OneLastThing": "Bar soap is a better experience than liquid body wash"
+    },
+    {
+        "Title": "Ok Cool Guy...",
+        "EpisodeNumber": 24,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-09-23",
+        "RunTime(min)": 119,
+        "MiddleSegment": "Console wars: Playstation vs Nintendo 64",
+        "OneLastThing": "The autumn equinox is the first day of fall"
+    },
+    {
+        "Title": "My Nails Are Too Tough",
+        "EpisodeNumber": 25,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-10-05",
+        "RunTime(min)": 125,
+        "MiddleSegment": "Is the Hype Train Worth It?",
+        "OneLastThing": "Lord of the Rings movies are a reasonable adaptation of the movies"
+    },
+    {
+        "Title": "Just The Right Amount of Spooky",
+        "EpisodeNumber": 26,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-10-21",
+        "RunTime(min)": 99,
+        "MiddleSegment": "Game ratings discussion",
+        "OneLastThing": "Digital clocks are a better timekeeping mechanism"
+    },
+    {
+        "Title": "Gas Station Hot Dog",
+        "EpisodeNumber": 27,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-11-03",
+        "RunTime(min)": 90,
+        "MiddleSegment": "Game Soundtracks",
+        "OneLastThing": "Swedish fish is the best candy"
+    },
+    {
+        "Title": "DOT Live: An Extra Life special",
+        "EpisodeNumber": 28,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-11-16",
+        "RunTime(min)": 91,
+        "MiddleSegment": "Overcooked 2",
+        "OneLastThing": "Black licorice is the best licorice"
+    },
+    {
+        "Title": "Validate meeeee!!!!!",
+        "EpisodeNumber": 29,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-12-02",
+        "RunTime(min)": 122,
+        "MiddleSegment": "Game Awards nominations",
+        "OneLastThing": "Live event of awards shows is boring"
+    },
+    {
+        "Title": "Do You Have a Job?",
+        "EpisodeNumber": 30,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2021-12-16",
+        "RunTime(min)": 106,
+        "MiddleSegment": "Annual DoT Game Awards",
+        "OneLastThing": "Turkey is overrated Christmas holiday meal"
+    },
+    {
+        "Title": "Also I Impulse Bought It",
+        "EpisodeNumber": 31,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2022-01-13",
+        "RunTime(min)": 62,
+        "MiddleSegment": "Backlog battle",
+        "OneLastThing": "No one should wear a tie again"
     }
 ]
