@@ -402,5 +402,30 @@
         "RunTime(min)": 62,
         "MiddleSegment": "Backlog battle",
         "OneLastThing": "No one should wear a tie again"
+    },
+    {
+        "Title": "Raging Clue",
+        "EpisodeNumber": 32,
+        "Hosts": [
+            "Paul",
+            "Cody",
+            "Chris"
+        ],
+        "ReleaseDate": "2022-01-27",
+        "RunTime(min)": 61,
+        "MiddleSegment": "What Do I Have Installed?",
+        "OneLastThing": "Pullover hoodies are better than zipper hoodies"
+    },
+    {
+        "Title": "That Destiny Itch",
+        "EpisodeNumber": 33,
+        "Hosts": [
+            "Paul",
+            "Chris"
+        ],
+        "ReleaseDate": "2022-02-15",
+        "RunTime(min)": 60,
+        "MiddleSegment": "Video Game Confessions",
+        "OneLastThing": "Kraft Mac and Cheese is better than restaurant mac and cheese"
     }
 ]
