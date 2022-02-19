@@ -1,8 +1,12 @@
-fetch("episodes.json")
-    .then(response => {return response.json()})
-    .then(json => {
-        insertTable(json)
-    });
+function getEpisodes() {
+    fetch("static/episodes.json")
+        .then(response => {return response.json()})
+        .then(json => {
+            insertTable(json)
+        });
+}
+
+getEpisodes();
 
 function insertTable(episodes) {
     console.log(episodes);

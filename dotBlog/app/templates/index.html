@@ -1,0 +1,13 @@
+<!doctype html>
+<meta charset="utf-8">
+
+<img src={{ url_for('static', filename = "dot-main-player-logo.png") }} width="100px">
+
+<table>
+    <thead>
+        <tr id = "headerRow"></tr>
+    </thead>
+    <tbody id = "episodeList"></tbody>
+</table>
+
+<script src= {{ url_for('static', filename='episodeTable.js') }}></script>
