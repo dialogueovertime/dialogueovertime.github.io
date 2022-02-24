@@ -2,6 +2,7 @@ import sqlite3
 import click
 from flask import current_app, g
 from flask.cli import with_appcontext
+from werkzeug.security import generate_password_hash
 
 def get_db():
     if 'db' not in g:
@@ -27,14 +28,34 @@ def init_db():
     with current_app.open_resource('schema.sql') as f:
         db.executescript(f.read().decode('utf8'))
 
+def savePassword(password):
+    db = get_db()
+
+    db.execute(
+        "INSERT INTO passwords VALUES (?)",
+        (generate_password_hash(password),),
+    )
+    db.commit()
+
+def seedDB():
+    db = get_db()
+
+    with current_app.open_resource('seed.sql') as f:
+        db.executescript(f.read().decode('utf8'))
 
 
 @click.command('init-db')
 @with_appcontext
-def init_db_command():
+@click.password_option()
+def init_db_command(password):
     """Clear the existing data and create new tables."""
     init_db()
     click.echo('Initialized the database.')
+    savePassword(password)
+    click.echo('Password saved.')
+    seedDB()
+    click.echo('Database Seeded.')
+
 
 def init_app(app):
     app.teardown_appcontext(close_db)

@@ -1,6 +1,8 @@
 DROP TABLE IF EXISTS episodes;
 DROP TABLE IF EXISTS hosts;
 DROP TABLE IF EXISTS episodeHosts;
+DROP TABLE IF EXISTS passwords;
+
 
 CREATE TABLE episodes (
     episodeNumber INTEGER PRIMARY KEY,
@@ -27,3 +29,7 @@ CREATE TABLE episodeHosts (
     FOREIGN KEY (episode) REFERENCES episodes(episodeNumber),
     FOREIGN KEY (host) REFERENCES hosts(hostID)
 );
+
+CREATE TABLE passwords(
+    passwordHash TEXT
+) 

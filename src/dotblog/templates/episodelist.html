@@ -7,9 +7,21 @@
 
 <table>
     <thead>
-        <tr id = "headerRow"></tr>
+        <tr id = "headerRow">
+            {% for h in episodes[0].keys() %}
+            <th>{{ h }}</th>
+            {% endfor %}
+        </tr>
     </thead>
-    <tbody id = "episodeList"></tbody>
+    <tbody id = "episodeList">
+        {% for e in episodes %}
+        <tr>
+            {% for d in e %}
+            <td>{{ d }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
 </table>
 
-<script src= {{ url_for('static', filename='episodeTable.js') }}></script>
+<!-- <script src= {{ url_for('static', filename='episodeTable.js') }}></script> -->
