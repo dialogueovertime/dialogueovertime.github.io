@@ -7,6 +7,7 @@ sudo apt install python3.10 -y
 sudo apt install python3.10-venv -y
 sudo apt install python3.10-dev -y
 sudo apt install apache2 -y
+sudo apt install sqlite3 -y
 
 sudo python3.10 -m ensurepip --upgrade
 

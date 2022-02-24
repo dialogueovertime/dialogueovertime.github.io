@@ -3,3 +3,5 @@
 .vagrant
 
 **/__pycache__
+
+**/instance

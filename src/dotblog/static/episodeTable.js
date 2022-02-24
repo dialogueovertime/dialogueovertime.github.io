@@ -9,7 +9,7 @@ function getEpisodes() {
 getEpisodes();
 
 function insertTable(episodes) {
-    console.log(episodes);
+    // console.log(episodes);
 
     var headerRow = document.getElementById('headerRow');
     Object.keys(episodes[0]).forEach(header => {

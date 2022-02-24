@@ -1,0 +1,45 @@
+<!doctype html>
+<meta charset="utf-8">
+
+{% block header %}
+<h1>{% block title %}Add Episode{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+<form method="post">  
+  <!-- <label for="password">Password</label>
+  <input type="password" name="password" id="password" required> -->
+  
+  <div>
+      <label for="episodeNumber">Episode Number</label>
+      <input name="episodeNumber" id="episodeNumber" required>
+  </div>
+
+  <div>
+      <label for="title">Title</label>
+      <input name="title" id="title" required>
+  </div>
+
+  <div>
+      <label for="releaseDate">Release Date (YYYY-MM-DD)</label>
+      <input name="releaseDate" id="releaseDate" required>
+  </div>
+
+  <div>
+      <label for="runTimeMinutes">Run Time in Minutes</label>
+      <input name="runTimeMinutes" id="runTimeMinutes" required>
+  </div>
+
+  <div>
+      <label for="segment">Segment</label>
+      <input name="segment" id="segment" required>
+  </div>
+
+  <div>
+      <label for="oneLastThing">One Last Thing</label>
+      <input name="oneLastThing" id="oneLastThing" required>
+  </div>
+
+  <input type="submit" value="Add Episode">
+</form>
+{% endblock %}
